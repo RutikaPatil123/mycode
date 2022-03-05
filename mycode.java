@@ -1,6 +1,6 @@
 class mycode{
 public static void main(String args[])
 {
-      System.out.println("git jenkin integration");
+      System.out.println("git jenkinSSS integration");
 }
 } 
